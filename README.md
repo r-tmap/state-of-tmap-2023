@@ -4,5 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/3457131/78889069-479c5480-7a63-11ea-9d76-e8a0acc55c3f.png" width=10% height=10%>
 
-It will be an ad-hoc/improvisation workshop featuring Martijn Tennekes, the main author of **tmap**.
+It will be **an ad-hoc/improvisation online workshop** featuring Martijn Tennekes, the main author of **tmap**.
 During the workshop, he will showcase and explain the underlying codebase of the latest major version of the package (v4).
+
+**Registration:** WIP
