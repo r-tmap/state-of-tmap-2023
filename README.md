@@ -8,3 +8,8 @@ During the workshop, he will showcase and explain the underlying codebase of the
 <img src="https://user-images.githubusercontent.com/3457131/78889069-479c5480-7a63-11ea-9d76-e8a0acc55c3f.png" width=10% height=10%>
 
 **Registration** [*we will email you the Zoom meeting link an hour before the workshop*]: https://forms.gle/yeuom3a7255JQbLV9
+
+**Additional information**:
+
+- https://github.com/r-tmap/tmap#development-major-update
+- https://mtennekes.github.io/tmap4/index.html
