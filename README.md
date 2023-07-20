@@ -7,4 +7,4 @@
 It will be **an ad-hoc/improvisation online workshop** featuring Martijn Tennekes, the main author of **tmap**.
 During the workshop, he will showcase and explain the underlying codebase of the latest major version of the package (v4).
 
-**Registration** [we will email you with the Zoom meeting link an hour before the workshop]: WIP
+**Registration** [*we will email you the Zoom meeting link an hour before the workshop*]: https://forms.gle/yeuom3a7255JQbLV9
