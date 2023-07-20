@@ -11,5 +11,5 @@ During the workshop, he will showcase and explain the underlying codebase of the
 
 **Additional information**:
 
-- https://github.com/r-tmap/tmap#development-major-update
-- https://mtennekes.github.io/tmap4/index.html
+- [tmap v4: installation](https://github.com/r-tmap/tmap#development-major-update)
+- [tmap v4: a sneak peek](https://mtennekes.github.io/tmap4/index.html)
