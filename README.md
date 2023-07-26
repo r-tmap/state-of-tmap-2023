@@ -13,3 +13,4 @@ During the workshop, he will showcase and explain the underlying codebase of the
 
 - [tmap v4: installation](https://github.com/r-tmap/tmap#development-major-update)
 - [tmap v4: a sneak peek](https://mtennekes.github.io/tmap4/index.html)
+- [Geocomputation with R: Making maps with R](https://r.geocompx.org/adv-map.html)
